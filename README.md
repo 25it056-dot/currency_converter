@@ -20,3 +20,7 @@ A responsive currency converter built using HTML, CSS and JavaScript.
 ## Author
 
 Lakshitha
+
+
+## live demo
+https://25it056-dot.github.io/currency_converter/
